@@ -27,11 +27,11 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: '#'
+      href: 'https://github.com/ahmed-ghaleb-2022'
     },
     {
       label: 'LinkedIn',
-      href: '#'
+      href: 'https://www.linkedin.com/in/ahmed-tareq-ali-ghaleb-64b14820a/'
     },
     {
       label: 'Twitter X',

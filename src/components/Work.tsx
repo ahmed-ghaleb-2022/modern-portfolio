@@ -6,31 +6,31 @@ const works = [
     imgSrc: todoList,
     title: "Todo list website",
     tags: ["Nextjs", "MongoDB", "Typescript"],
-    projectLink: "#",
+    projectLink: "https://todo-list-nextjs-amber.vercel.app/",
   },
   {
     imgSrc: groupWhatsapp,
     title: "whatsapp's groups website",
     tags: ["Nextjs", "Laravel", "MySql"],
-    projectLink: "#",
+    projectLink: "https://whatsapp-groups.vercel.app/",
   },
   {
     imgSrc: factoryGame,
     title: "Factory game website",
     tags: ["React", "Laravel", "Inertiajs", "MySql"],
-    projectLink: "#",
+    projectLink: "https://factory.ahmedghaleb.com/",
   },
   {
     imgSrc: threeDPortfolio,
     title: "3D portfolio website",
     tags: ["React", "Threejs", "Tailwind"],
-    projectLink: "#",
+    projectLink: "https://3dportfolio.ahmedghaleb.com/",
   },
   {
     imgSrc: bookStore,
     title: "Book store website",
     tags: ["React", "Typescript", "MongoDB"],
-    projectLink: "#",
+    projectLink: "https://books-store-fronend.vercel.app/",
   }
 ];
 
