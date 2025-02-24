@@ -12,6 +12,9 @@ import Node from "../assets/images/tech/nodejs.png";
 import Mongo from "../assets/images/tech/mongodb.png";
 import Git from "../assets/images/tech/git.png";
 import Docker from "../assets/images/tech/docker.png";
+import Java from "../assets/images/tech/java.png";
+import SpringBoot from "../assets/images/tech/springboot.png";
+
 
 
 // projects : 
@@ -25,4 +28,4 @@ import bookStore from "../assets/images/projects/BookStoreWebsite.png";
 
 
 
-export { Html, Css, Javascript, Typescript, React, Redux, Nextjs, Tailwind, Node, Mongo,  Git, Docker, todoList, groupWhatsapp, factoryGame, threeDPortfolio, bookStore };
+export { Html, Css, Javascript, Typescript, React, Redux,Java,SpringBoot, Nextjs, Tailwind, Node, Mongo,  Git, Docker, todoList, groupWhatsapp, factoryGame, threeDPortfolio, bookStore };

@@ -1,5 +1,5 @@
 import SkillCard from "./SkillCard";
-import { Html, Css, Javascript, Typescript, React, Redux, Nextjs, Tailwind, Node, Mongo,  Git, Docker } from "../assets/imagesIndex";
+import { Html, Css, Javascript, Typescript, React,Java, SpringBoot, Redux, Nextjs, Tailwind, Node, Mongo,  Git, Docker } from "../assets/imagesIndex";
 
 const Skills = () => {
   const skillItem = [
@@ -17,6 +17,15 @@ const Skills = () => {
       imgSrc: Javascript,
       label: "Javascript",
       desc: "Programming Language",
+    },{
+      imgSrc: Java,
+      label: "Java",
+      desc: "Programming Language",
+    },
+    {
+      imgSrc: SpringBoot,
+      label: "Spring Boot",
+      desc: "Java Framework",
     },
     {
       imgSrc: Typescript,

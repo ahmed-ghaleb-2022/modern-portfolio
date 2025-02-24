@@ -32,9 +32,10 @@ const Hero = () => {
             </h2>
 
             <div className="flex items-center gap-3">
-                <ButtonPrimary 
-                 label="Download CV" 
-                 icon="download"
+                <ButtonPrimary
+                href="https://github.com/ahmed-ghaleb-2022" 
+                 label="My GitHub" 
+                 icon="graph_1"
                  />
                 <ButtonOutline
                 href="#about"
